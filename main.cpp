@@ -1,9 +1,5 @@
-//Author: Ashley Muka
-//Assignment Title: Program 4
-//Assignment Description: Write a program sums the digits in an integer
-//Due Date: 1/27/2023
-//Date Created: 1/27/2023
-//Date Last Modified: 1/27/2023
+
+//Description: Write a program sums the digits in an integer
 
 #include <iostream>
 using namespace std;
